@@ -34,10 +34,3 @@ if st.button("Get Recipe"):
         st.write(input_recipe)
     else:
         st.write("Please enter some ingredients.")
-
-
-
-
-
-
-# print(f"Response: {response.content}")
